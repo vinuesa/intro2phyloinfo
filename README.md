@@ -94,7 +94,7 @@ En consecuencia:
 
 #### Pr&aacute;ctica 1. Primer contacto con un sistema GNU/Linux
 - [pr&aacute;ctica1 - html](https://vinuesa.github.io/intro2phyloinfo/intro2linux/)
-- [pr&aacute;ctica1 - pdf](https://github.com/vinuesa/intro2phyloinfo/intro2linux/tree/master/docs/intro2linux/working_with_linux_commands.pdf)
+- [pr&aacute;ctica1 - pdf](https://github.com/vinuesa/intro2phyloinfo/tree/master/docs/intro2linux/working_with_linux_commands.pdf)
 
 #### Pr&aacute;ctica 2. Descarga de secuencias en formato FASTA de GenBank usando el sistema ENTREZ y parseo de los archivos usando herrramientas de filtrado
 - [pr&aacute;ctica2 - html](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/)
