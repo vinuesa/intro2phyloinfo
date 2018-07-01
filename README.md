@@ -100,6 +100,7 @@ En consecuencia:
 #### Pr&aacute;ctica 2. Descarga de secuencias en formato FASTA de GenBank usando el sistema ENTREZ y parseo de los archivos usando herrramientas de filtrado
 - [pr&aacute;ctica2 - html](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/)
 - [pr&aacute;ctica2 - pdf](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/ejercicio_parseo_fastas_ENTREZ.pdf)
+- [pr&aacute;ctica2 - fasta](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/data/recA_Bradyrhizobium_vinuesa.fa)
 
 <!--
 
