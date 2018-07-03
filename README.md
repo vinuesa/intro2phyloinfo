@@ -80,7 +80,7 @@ Creative Commons](https://creativecommons.org/).
 
 -->
 
-### Tema 1: Introducci&oacute;n al bioc&oacute;mputo en sistemas GNU/Linux (2-07-2018)
+### Tema 0: Introducci&oacute;n al bioc&oacute;mputo en sistemas GNU/Linux (2-07-2018)
 
 El trabajo en gen&oacute;mica se realiza en servidores UNIX o GNU/Linux de alto rendimiento. Es por ello 
 esencial familiarizarse con este ambiente de c&oacute;mputo al inicio de la formaci&oacute;n acad&eacute;mica. 
@@ -102,6 +102,19 @@ En consecuencia:
 - [pr&aacute;ctica2 - html](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/)
 - [pr&aacute;ctica2 - pdf](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/ejercicio_parseo_fastas_ENTREZ.pdf)
 - [pr&aacute;ctica2 - fasta](https://vinuesa.github.io/intro2phyloinfo/practica2_parseo_fastas/data/recA_Bradyrhizobium_vinuesa.fa)
+
+### Tema 1: Conceptos básicos de evolución
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema1_conceptos_basicos_evolucion/Teoria1_conceptos_básicos_de_filoinformática_y_diversidad_microbiana.pdf)
+
+### Tema 2: Búsqueda de homólogos mediante BLAST: teoría y pŕactica
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema1_conceptos_basicos_evolucion/Teoria1_conceptos_básicos_de_filoinformática_y_diversidad_microbiana.pdf)
+- [pr&aacute;ctica1 - comandos](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/running_and_parsing_BLAST_from_the_cmmd_line.commands)
+- [pr&aacute;ctica1 - 16S_4blastN.tgz ](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/16S_4blastN.tgz)
+- [pr&aacute;ctica1 - gene_discovery_and_annotation_using_blastx.tgz](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/gene_discovery_and_annotation_using_blastx.tgz)
+
+### Tema 3: Alineamientos múltiples: teoría y pŕactica
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema3_alineamientos_multiples/Tema3_alineamientos_multiples.pdf)
+- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema3_alineamientos_multiples/data/practicas_aln_multiples.tgz)
 
 <!--
 
