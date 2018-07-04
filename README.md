@@ -107,7 +107,7 @@ En consecuencia:
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema1_conceptos_basicos_evolucion/Teoria1_conceptos_básicos_de_filoinformática_y_diversidad_microbiana.pdf)
 
 ### Tema 2: Búsqueda de homólogos mediante BLAST: teoría y pŕactica
-- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema1_conceptos_basicos_evolucion/Teoria1_conceptos_básicos_de_filoinformática_y_diversidad_microbiana.pdf)
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/Tema2_BLAST_OVERVIEW.pdf)
 - [pr&aacute;ctica1 - comandos](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/running_and_parsing_BLAST_from_the_cmmd_line.commands)
 - [pr&aacute;ctica1 - 16S_4blastN.tgz ](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/16S_4blastN.tgz)
 - [pr&aacute;ctica1 - gene_discovery_and_annotation_using_blastx.tgz](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/gene_discovery_and_annotation_using_blastx.tgz)
