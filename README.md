@@ -122,7 +122,7 @@ En consecuencia:
 
 ### Tema 5: Máxima verosimilitud: estima de parámetros y selección de models - teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud/Tema5_maxima_verosimilitud_y_seleccion_de_modelos.pdf)
-- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud//data/practicas_aln_multiples.tgz)
+- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud/data/practicas_MV_y_seleccion_modelos.tgz)
 
 
 <!--
