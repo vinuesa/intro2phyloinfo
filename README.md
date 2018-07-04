@@ -106,21 +106,21 @@ En consecuencia:
 ### Tema 1: Conceptos básicos de evolución
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema1_conceptos_basicos_evolucion/Teoria1_conceptos_básicos_de_filoinformática_y_diversidad_microbiana.pdf)
 
-### Tema 2: Búsqueda de homólogos mediante BLAST: teoría y pŕactica
+### Tema 2: Búsqueda de homólogos mediante BLAST: teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/Tema2_BLAST_OVERVIEW.pdf)
 - [pr&aacute;ctica1 - comandos](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/running_and_parsing_BLAST_from_the_cmmd_line.commands)
 - [pr&aacute;ctica1 - 16S_4blastN.tgz ](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/16S_4blastN.tgz)
 - [pr&aacute;ctica1 - gene_discovery_and_annotation_using_blastx.tgz](https://vinuesa.github.io/intro2phyloinfo/tema2_BLAST/data/gene_discovery_and_annotation_using_blastx.tgz)
 
-### Tema 3: Alineamientos múltiples: teoría y pŕactica
+### Tema 3: Alineamientos múltiples: teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema3_alineamientos_multiples/Tema3_alineamientos_multiples.pdf)
 - [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema3_alineamientos_multiples/data/practicas_aln_multiples.tgz)
 
 
-### Tema 4: Introducción a los métodos filogenéticos y modelado paramétrico de evolución de secuencias nucleotídicas: teoría y pŕactica
+### Tema 4: Introducción a los métodos filogenéticos y modelado paramétrico de evolución de secuencias nucleotídicas: teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud/Tema4_intro_a_la_filogenetica_y_modelos_de_sustitucion.pdf)
 
-### Tema 5: Máxima verosimilitud: estima de parámetros y selección de models - teoría y pŕactica
+### Tema 5: Máxima verosimilitud: estima de parámetros y selección de models - teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud/Tema5_maxima_verosimilitud_y_seleccion_de_modelos.pdf)
 - [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud//data/practicas_aln_multiples.tgz)
 
