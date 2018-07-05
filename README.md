@@ -125,6 +125,17 @@ En consecuencia:
 - [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema4_modelos_y_maxima_verosimilitud/data/practicas_MV_y_seleccion_modelos.tgz)
 
 
+### Tema 6: Introducción a la pangenómica microbiana con [GET_HOMOLOGUES](https://github.com/eead-csic-compbio/get_homologues) - teoría y práctica
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/introduccion_a_la_pangenomica_microbiana_UNLP_5Jul18.pdf)
+- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/data/get_hom.tgz)
+
+### Tema 7: Introducción a la filogenómica microbiana con [GET_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers) - teoría y práctica
+
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/introduccion_a_la_filogenomica_microbiana_UNLP_5Jul18.pdf)
+- [paper GET_PHYLO - pdf](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/data/get_phylo/Vinuesa_GET_PHYLOMARKERS_FrontMicro2018.pdf)
+- [tutorial - GET_PHYLOMARKERS](https://vinuesa.github.io/get_phylomarkers/#get_phylomarkers-tutorial)
+
+
 <!--
 
 
