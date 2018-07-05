@@ -129,6 +129,9 @@ En consecuencia:
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/introduccion_a_la_pangenomica_microbiana_UNLP_5Jul18.pdf)
 - [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/data/get_hom.tgz)
 - [tutorial - GET_HOMOLOGUES/GET_PHYLOMARKERS - docker](https://vinuesa.github.io/get_phylomarkers/#get_phylomarkers-tutorial)
+- [start_docker - script](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/data/start_docker.sh)
+
+
 
 ### Tema 7: Introducción a la filogenómica microbiana con [GET_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers) - teoría y práctica
 - [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/introduccion_a_la_filogenomica_microbiana_UNLP_5Jul18.pdf)
