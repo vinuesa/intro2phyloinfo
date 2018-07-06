@@ -131,6 +131,9 @@ En consecuencia:
 - [tutorial - GET_HOMOLOGUES/GET_PHYLOMARKERS - docker](https://vinuesa.github.io/get_phylomarkers/#get_phylomarkers-tutorial)
 - [start_docker - script](https://vinuesa.github.io/intro2phyloinfo/tema5_get_hom_get_phy/data/start_docker.sh)
 
+### Tema 7: Inferencia bayesiana de filogenias con [MrBayes](http://mrbayes.sourceforge.net/index.php) - teoría y práctica
+- [presentación - pdf](https://vinuesa.github.io/intro2phyloinfo/tema6_inferencia_bayesiana/inferencia_bayesiana_con_MrBayes.pdf)
+- [pr&aacute;ctica1 - tgz](https://vinuesa.github.io/intro2phyloinfo/tema6_inferencia_bayesiana/data/MrBayes.tgz)
 
 
 ### Tema 7: Introducción a la filogenómica microbiana con [GET_PHYLOMARKERS](https://github.com/vinuesa/get_phylomarkers) - teoría y práctica
