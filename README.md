@@ -31,6 +31,8 @@ Las clases se imparten en el sal&oacute;n de c&oacute;mputo del Instituto de Bio
 de 9 a 18 hrs. Algunas sesines te&oacute;ricas esperamos poder impartirlas en el auditorio.
 
 
+<img src="docs/pics/intro2phyloinfo_aula_UNLP_2-6Julio2018.jpg />
+
 ### Objetivos, estructura y resumen de contenidos del Taller
 Cada tema tiene un bloque de teor&iacute;a y una o m&aacute;s sesiones pr&aacute;cticas asociadas. Se explicar&aacute;n los principios b&aacute;sicos de b&uacute;squeda de hom&oacute;logos en bases de datos, alineamientos m&uacute;ltiples, e inferencia filogen&eacute;tica, para culminar con el an&aacute;lisis pangen&oacute;mico y filogen&oacute;mico de genomas microbianos.
 
