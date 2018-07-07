@@ -4,6 +4,8 @@
 
 1a. Edición: [Taller de Filoinformática - UNLP, 2-6 Julio 2018](https://agromicrobios.biol.unlp.edu.ar/?p=221), Facultad de Ciencias Exactas, Universidad Nacional de La Plata, Argentina, gracias al apoyo recibido por la [Red Tem&aacute;tica Agromicrobios](https://agromicrobios.biol.unlp.edu.ar/) del [Programa Iberoamericano de Ciencia y Tecnolog&iacute;a para el Desarrollo - CYTED](http://www.cyted.org/es), la [Facultad de Ciencias Exactas - UNLP](http://www.exactas.unlp.edu.ar/) y el [CONICET](http://www.laplata-conicet.gov.ar/).
 
+<img src="docs/pics/Participantes_curso_intro2phyloinfo_UNLP_2-6Julio2018.jpg" />
+
 
 ***
  
