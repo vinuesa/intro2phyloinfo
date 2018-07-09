@@ -71,7 +71,7 @@ Cada tema tiene un bloque de teor&iacute;a y una o m&aacute;s sesiones pr&aacute
 - [MrBayes](http://mrbayes.sourceforge)
 
 
-<img src="docs/pics/La_Plata_6Jul18.jpg" />
+<img src="docs/pics/La_plata_6Jul18.jpg" />
 
 
 
