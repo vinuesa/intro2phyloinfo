@@ -70,6 +70,11 @@ Cada tema tiene un bloque de teor&iacute;a y una o m&aacute;s sesiones pr&aacute
 - [FigTree (para visualizar y editar árboles)](http://tree.bio.ed.ac.uk/)
 - [MrBayes](http://mrbayes.sourceforge)
 
+
+<img src="docs/pics/La_Plata_6Jul18.jpg" />
+
+
+
 ## Temario detallado y material asociado
 
 <!--
