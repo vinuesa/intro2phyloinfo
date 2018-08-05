@@ -24,7 +24,10 @@ la evoluci&oacute;n y emergencia de pat&oacute;genos oportunistas a partir de mi
 A trav&eacute;s de estas p&aacute;ginas se distribuyen los apuntes, ejercicios y datos que se usar&aacute;n en el Taller.
 Es una recopilaci&oacute; de material desarrollado por [Pablo Vinuesa](http://www.ccg.unam.mx/~vinuesa/), instructor del Taller, 
 para diversos cursos y talleres que ha impartido principalmente en la [Universidad Nacional Aut&oacute;noma de M&eacute;xico - UNAM](https://www.unam.mx/). 
-Este matrial docente lo distribuyo p&uacute;blicamente a trav&eacute;s de este repositorio GitHub bajo la licencia de Creative Commons.
+
+El material docente del [curso_Rstats](https://github.com/vinuesa/curso_Rstats) lo distribuyo p&uacute;blicamente a trav&eacute;s de este repositorio GitHub bajo la [**Licencia No Comercial Creative Commons 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 
 
 ### ¿Horario y lugar de impartici&oacute;n de las sesiones?
 Las clases se imparten en el sal&oacute;n de c&oacute;mputo del Instituto de Biotecnolog&iacute;a 
