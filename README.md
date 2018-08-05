@@ -6,7 +6,6 @@
 
 <img src="docs/pics/Participantes_curso_intro2phyloinfo_UNLP_2-6Julio2018.jpg" />
 
-
 ***
  
 ## Presentaci&oacute;n
@@ -25,9 +24,24 @@ A trav&eacute;s de estas p&aacute;ginas se distribuyen los apuntes, ejercicios y
 Es una recopilaci&oacute; de material desarrollado por [Pablo Vinuesa](http://www.ccg.unam.mx/~vinuesa/), instructor del Taller, 
 para diversos cursos y talleres que ha impartido principalmente en la [Universidad Nacional Aut&oacute;noma de M&eacute;xico - UNAM](https://www.unam.mx/). 
 
-El material docente del [curso_Rstats](https://github.com/vinuesa/curso_Rstats) lo distribuyo p&uacute;blicamente a trav&eacute;s de este repositorio GitHub bajo la [**Licencia No Comercial Creative Commons 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) 
+
+
+
+### Licencia y términos de uso
+Este material docente del curso [**intro2phyloinfo**](https://github.com/vinuesa/intro2phyloinfo) lo distribuyo p&uacute;blicamente a trav&eacute;s de este [repositorio GitHub](https://github.com/vinuesa/intro2phyloinfo) bajo la [**Licencia No Comercial Creative Commons 4.0**](https://creativecommons.org/licenses/by-nc/4.0/) 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 
+
+#### Clonaci&oacute;n del repositorio
+Si tienes instalado [git](https://git-scm.com/) en tu computadora, puedes clonar el repositorio con el comando:
+
+   <code>git clone https://github.com/vinuesa/intro2phyloinfo.git</code>
+
+En [ubuntu](https://www.ubuntu.com/) es muy f&aacute;cil instalar git: 
+
+  <code>sudo apt install git</code>
+
+
 
 ### ¿Horario y lugar de impartici&oacute;n de las sesiones?
 Las clases se imparten en el sal&oacute;n de c&oacute;mputo del Instituto de Biotecnolog&iacute;a 
@@ -38,6 +52,7 @@ de 9 a 18 hrs. Algunas sesines te&oacute;ricas esperamos poder impartirlas en el
 
 ### Objetivos, estructura y resumen de contenidos del Taller
 Cada tema tiene un bloque de teor&iacute;a y una o m&aacute;s sesiones pr&aacute;cticas asociadas. Se explicar&aacute;n los principios b&aacute;sicos de b&uacute;squeda de hom&oacute;logos en bases de datos, alineamientos m&uacute;ltiples, e inferencia filogen&eacute;tica, para culminar con el an&aacute;lisis pangen&oacute;mico y filogen&oacute;mico de genomas microbianos.
+
 
 #### Lunes 2. 
 - Introducción a Linux (teoría y práctica)
